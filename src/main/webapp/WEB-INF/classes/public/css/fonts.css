@@ -1,0 +1,99 @@
+/*@charset "utf-8";*/
+/* CSS Document */
+
+@font-face{
+	font-family:"proximanova";
+	font-weight:200;
+	font-style:normal;
+	src: url("../fonts/proximanova-light.eot");
+	src:
+		url("../fonts/proximanova-light.eot?#iefix") format('embedded-opentype'),
+		url("../fonts/proximanova-light.woff") format('woff'),
+		url("../fonts/proximanova-light.ttf") format('truetype'),
+		url("../fonts/proximanova-light.otf") format('opentype');
+}
+
+@font-face{
+	font-family:"proximanova";
+	font-weight:400;
+	font-style:normal;
+	src: url("../fonts/proximanova-reg.eot");
+	src:
+		url("../fonts/proximanova-reg.eot?#iefix") format('embedded-opentype'),
+		url("../fonts/proximanova-reg.woff") format('woff'),
+		url("../fonts/proximanova-reg.ttf") format('truetype'),
+		url("../fonts/proximanova-reg.otf") format('opentype');
+}
+
+@font-face{
+	font-family:"proximanova";
+	font-weight:500;
+	font-style:normal;
+	src: url("../fonts/proximanova-sbold.eot");
+	src:
+		url("../fonts/proximanova-sbold.eot?#iefix") format('embedded-opentype'),
+		url("../fonts/proximanova-sbold.woff") format('woff'),
+		url("../fonts/proximanova-sbold.ttf") format('truetype'),
+		url("../fonts/proximanova-sbold.otf") format('opentype');
+}
+
+@font-face{
+	font-family:"proximanova";
+	font-weight:600;
+	font-style:normal;
+	src: url("../fonts/proximanova-bold.eot");
+	src:
+		url("../fonts/proximanova-bold.eot?#iefix") format('embedded-opentype'),
+		url("../fonts/proximanova-bold.woff") format('woff'),
+		url("../fonts/proximanova-bold.ttf") format('truetype'),
+		url("../fonts/proximanova-bold.otf") format('opentype');
+}
+
+@font-face{
+	font-family:"NotoSans";
+	font-weight:200;
+	font-style:normal;
+	src: url("../fonts/NotoSans-Light.eot");
+	src:
+		url("../fonts/NotoSans-Light.eot?#iefix") format('embedded-opentype'),
+		url("../fonts/NotoSans-Light.woff") format('woff'),
+		url("../fonts/NotoSans-Light.ttf") format('truetype'),
+		url("../fonts/NotoSans-Light.otf") format('opentype');
+}
+
+
+@font-face{
+	font-family:"NotoSans";
+	font-weight:400;
+	font-style:normal;
+	src: url("../fonts/NotoSans-Regular.eot");
+	src:
+		url("../fonts/NotoSans-Regular.eot?#iefix") format('embedded-opentype'),
+		url("../fonts/NotoSans-Regular.woff") format('woff'),
+		url("../fonts/NotoSans-Regular.ttf") format('truetype'),
+		url("../fonts/NotoSans-Regular.otf") format('opentype');
+}
+
+@font-face{
+	font-family:"NotoSans";
+	font-weight:500;
+	font-style:normal;
+	src: url("../fonts/NotoSans-Medium.eot");
+	src:
+		url("../fonts/NotoSans-Medium.eot?#iefix") format('embedded-opentype'),
+		url("../fonts/NotoSans-Medium.woff") format('woff'),
+		url("../fonts/NotoSans-Medium.ttf") format('truetype'),
+		url("../fonts/NotoSans-Medium.otf") format('opentype');
+}
+
+@font-face{
+	font-family:"NotoSans";
+	font-weight:600;
+	font-style:normal;
+	src: url("../fonts/NotoSans-Bold.eot");
+	src:
+		url("../fonts/NotoSans-Bold.eot?#iefix") format('embedded-opentype'),
+		url("../fonts/NotoSans-Bold.woff") format('woff'),
+		url("../fonts/NotoSans-Bold.ttf") format('truetype'),
+		url("../fonts/NotoSans-Bold.otf") format('opentype');
+}

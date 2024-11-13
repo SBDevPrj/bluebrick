@@ -1,0 +1,4 @@
+greeting=안녕하세요
+lang.change=Changez la langue
+lang.eng=Anglais
+lang.fr=Francais

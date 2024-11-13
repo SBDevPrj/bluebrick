@@ -1,0 +1,22 @@
+{
+  "groups": [
+    {
+      "name": "file.upload.path",
+      "type": "com.sejong.newbluebrick.config.FileUploadPathProperty",
+      "sourceType": "com.sejong.newbluebrick.config.FileUploadPathProperty"
+    }
+  ],
+  "properties": [
+    {
+      "name": "file.upload.path.temp-file",
+      "type": "java.lang.String",
+      "sourceType": "com.sejong.newbluebrick.config.FileUploadPathProperty"
+    },
+    {
+      "name": "file.upload.path.upload-file",
+      "type": "java.lang.String",
+      "sourceType": "com.sejong.newbluebrick.config.FileUploadPathProperty"
+    }
+  ],
+  "hints": []
+}
